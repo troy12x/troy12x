@@ -1,6 +1,6 @@
 <h1 align="center">Hello there , I'm Eyad Gomaa</h1>
 <h3 align="center">a front-end developer</h3>
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+<img algin="right" alt="coding" width="400" src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy12x&label=Profile%20views&color=0e75b6&style=flat" alt="troy12x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=troy12x" alt="troy12x" /></a> </p>
