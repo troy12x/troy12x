@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there im eyad gomaa from "Cairo , Egypt" a expert & creative<br>front-end developer i used to work at SILX LABS a tech company but <br>now im looking for a new job 
+Hello there im eyad gomaa from "Cairo , Egypt" a expert & creative<br>full stack developer i used to work at SILX LABS a tech company but <br>now im looking for a new job 
 
 
 ## 🌐 Socials:
