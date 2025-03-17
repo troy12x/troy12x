@@ -15,8 +15,8 @@ I’m an **AI researcher, ML engineer, and entrepreneur**, pushing the boundarie
 - **AI-powered Engineering Tools (SI Copilot)**  
 
 ### 📢 Let’s Connect  
- [LinkedIn]((https://www.linkedin.com/in/eyad-gomaa-silx/))  
- [Twitter]((https://x.com/TroyQuasar))  
- [Website]((https://sicopilot.cloud/))  
+[LinkedIn](https://www.linkedin.com/in/eyad-gomaa-silx/)  
+[Twitter](https://x.com/TroyQuasar)  
+[Website](https://sicopilot.cloud/) 
 
 🚀 Always innovating. Always building.  
