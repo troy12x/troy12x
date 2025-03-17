@@ -1,6 +1,6 @@
-# 🚀 Eyad Gomaa | AI Researcher & ML Engineer  
+# Eyad Gomaa | AI Researcher & ML Engineer  
 
-### 👋 About Me  
+### 👋
 I’m an **AI researcher, ML engineer, and entrepreneur**, pushing the boundaries of **Synthetic Intelligence** and advanced AI architectures. My work focuses on **AI-driven reasoning, large-scale model architectures, and human-AI integration**.  
 
 🔹 **CEO & Co-Founder @ SILX AI** — Building next-gen AI models trained on human brain data.  
