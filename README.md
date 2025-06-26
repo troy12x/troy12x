@@ -1,22 +1,23 @@
-# Eyad Gomaa | AI Researcher & ML Engineer  
+# Eyad Gomaa | AI Researcher & ML Engineer
 
-### 👋
-I’m an **AI researcher, ML engineer, and entrepreneur**, pushing the boundaries of **Synthetic Intelligence** and advanced AI architectures. My work focuses on **AI-driven reasoning, large-scale model architectures, and human-AI integration**.  
+## 👋 About Me
+I’m an **AI researcher**, **ML engineer**, and **entrepreneur**, pushing the boundaries of **Synthetic Intelligence** 
+My work focuses on:
 
-🔹 **CEO & Co-Founder @ SILX AI** — Building next-gen AI models trained on human brain data.  
-🔹 **Ex-CEO @ Triv AI** — the world’s first AI-powered driving school.  
-🔹 **Creator of Quasar-1** — Developing an advanced LLM architecture with a unique **Token Temperature Mechanism** and **Guided Sequence of Thought (GSoT)** for structured AI reasoning.  
+- **Large-scale model architectures**
+- **Human-AI integration**
 
-### 🔬 Research & Interests  
-- **Synthetic Intelligence** 🧠  
-- **Digital Neocortex & AI-driven Reasoning**  
-- **LLM Optimization & Model Architectures**  
-- **Human-AI Integration & Brain-Computer Interfaces (BCI)**  
-- **AI-powered Engineering Tools (SI Copilot)**  
+### My Work
+**CEO & Co-Founder @ [SILX AI](https://sicopilot.cloud/)** — Building next-gen AI models trained on human brain data.
+**Quasar-V4**  
+   - **Quasar-V4**, the world’s **first 400B parameter non-transformer AI model**.  
+  It uses **Liquid Neural Networks (LNNs)** instead of traditional attention mechanisms, enabling better long-context understanding, faster training, and transformer-free scaling.
 
-### 📢 Let’s Connect  
-[LinkedIn](https://www.linkedin.com/in/eyad-gomaa-silx/)  
-[Twitter](https://x.com/TroyQuasar)  
-[Website](https://sicopilot.cloud/) 
 
-🚀 Always innovating. Always building.  
+## Let’s Connect
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/eyad-gomaa-silx/)
+- [🐦 Twitter (X)](https://x.com/TroyQuasar)
+- [🌐 Website](https://sicopilot.cloud/)
+
+---
